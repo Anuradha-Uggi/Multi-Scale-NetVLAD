@@ -1,2 +1,2 @@
 # Multi-Scale-NetVLAD
-This containes reproducible codes for the MS-NetVLAD work. 
+This contains codes for the reproducibility of the MS-NetVLAD work. 
