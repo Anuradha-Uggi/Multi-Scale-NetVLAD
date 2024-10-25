@@ -23,6 +23,7 @@ This is to train the model.
 python main.py --mode=train 
 ```
 # Bibtex
+Please use the below BibTeX to cite if you use the code.
 ```
 @ARTICLE{10605600,
   author={Uggi, Anuradha and Channappayya, Sumohana S.},
