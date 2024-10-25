@@ -22,7 +22,7 @@ This is to train the model.
 ```python
 python main.py --mode=train 
 ```
-# Bibtex
+## Bibtex
 Please use the below BibTeX to cite if you use the code.
 ```
 @ARTICLE{10605600,
