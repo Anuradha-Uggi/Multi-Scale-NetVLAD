@@ -1,5 +1,5 @@
 # Multi-Scale (MS) NetVLAD
-"This repository provides the implementation of the [Multi-Scale-NetVLAD](https://ieeexplore.ieee.org/document/10605600) approach. The development of MS-NetVLAD is inspired by [MixVPR](https://github.com/amaralibey/MixVPR), [NetVLAD](https://github.com/Nanne/pytorch-NetVlad?tab=readme-ov-file), and [Patch-NetVLAD](https://github.com/QVPR/Patch-NetVLAD)
+"This repository provides the implementation of the [Multi-Scale-NetVLAD](https://ieeexplore.ieee.org/document/10605600) approach. The development of MS-NetVLAD follows [MixVPR](https://github.com/amaralibey/MixVPR), [NetVLAD](https://github.com/Nanne/pytorch-NetVlad?tab=readme-ov-file), and [Patch-NetVLAD](https://github.com/QVPR/Patch-NetVLAD) repos.
 
 # Summary
 This work proposes a new technique to address the Visual Place Recognition (VPR) problem. MS-NetVLAD essentially aggregates the multi-scale features across multiple intermediate layers of the backbone model, exploiting the complete hierarchy of the backbone features. The simple and efficient MS-NetVLAD improves upon popular VPR models such as NetVLAD, Patch-NetVLAD, etc., by a considerable margin.       
