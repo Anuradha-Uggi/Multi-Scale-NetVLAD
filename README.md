@@ -6,5 +6,10 @@ Training data: [GSV-Cities](https://github.com/amaralibey/gsv-cities?tab=readme-
 Test data: copy of the Pittsburgh 250k (available [here](https://github.com/Relja/netvlad/issues/42))
 
 ## Usage
-main.py can be run for train. 
+Use the command below to generate clusters to initialize the model. 
+'''python
+python main.py --mode=cluster 
+
+Use the command below to train the model
+python main.py --mode=train 
 
