@@ -8,10 +8,11 @@ Test data: copy of the Pittsburgh 250k (available [here](https://github.com/Relj
 ## Cluster
 This generates clusters to initialize the model. 
 ```python
-python main.py --mode=cluster 
-
+python main.py --mode=cluster
+```
 ## Train
-This is to train the model
-```python 
-main.py --mode=train 
+This trains the model. 
+```python
+python main.py --mode=train 
+```
 
