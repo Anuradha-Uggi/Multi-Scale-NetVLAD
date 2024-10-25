@@ -22,4 +22,15 @@ This is to train the model.
 ```python
 python main.py --mode=train 
 ```
+# Bibtex
+@ARTICLE{10605600,
+  author={Uggi, Anuradha and Channappayya, Sumohana S.},
+  journal={IEEE Signal Processing Letters}, 
+  title={MS-NetVLAD: Multi-Scale NetVLAD for Visual Place Recognition}, 
+  year={2024},
+  volume={31},
+  number={},
+  pages={1855-1859},
+  keywords={Visualization;Image recognition;Transforms;Contrastive learning;Benchmark testing;Feature extraction;Vectors;Image matching;visual place recognition;scale invariance;NetVLAD},
+  doi={10.1109/LSP.2024.3425279}}
 
